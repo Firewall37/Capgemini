@@ -8,7 +8,7 @@ RT: Java(TM) SE Runtime Environment 16.0.1+9-24\
 System: Windows 10
 
 
-Para iniciar as aplicações em seu computador basta fazer o download de ambos o arquivo ".jar" e ".bat" (localizado dentro da pasta de cada desafio) e utilizar o arquivo .bat.
+Para iniciar as aplicações em seu computador basta fazer o download de ambos o arquivo ".jar" e ".bat" (localizado dentro da pasta de cada desafio) e utilizar o arquivo .bat para iniciar./
 o Código fonte foi incluido junto com os arquivos.
 
 
